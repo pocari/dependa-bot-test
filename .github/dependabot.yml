@@ -1,0 +1,10 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "15:55"
+    timezone: Asia/Tokyo
+  versioning-strategy: "increse"
+  open-pull-requests-limit: 10
