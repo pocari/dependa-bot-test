@@ -6,5 +6,5 @@ updates:
     interval: daily
     time: "15:55"
     timezone: Asia/Tokyo
-  versioning-strategy: "increse"
+  versioning-strategy: "increase"
   open-pull-requests-limit: 10
